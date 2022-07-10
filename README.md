@@ -1,7 +1,7 @@
 # pcomp
 A simple library that calculates all possible combinations of a list of a given length.
 
-Usage(hex to binnary)
+Example(hex to binnary)
 
 import pcomp
 
