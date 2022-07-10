@@ -10,10 +10,10 @@ classifiers = [
  
 setup(
   name='pcomp',
-  version='1.0.1',
+  version='1.0.2',
   description='Possible combinations - Python Library',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
-  url='',  
+  url='https://github.com/For1nator/pcomp',  
   author='Antonis Piloridis',
   author_email='antonispiloridis@gmail.com',
   license='MIT', 
