@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='pcomp',
-  version='1.0.2',
+  version='1.1.0',
   description='Possible combinations - Python Library',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='https://github.com/For1nator/pcomp',  
