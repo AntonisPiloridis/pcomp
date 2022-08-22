@@ -1,11 +1,11 @@
 def area(iterable,length):
-    if iterable and length:
+    if iterable and (length>0):
         return pow(len(iterable),length)
     return None
 
 
 def pc(iterable,length):
-    if iterable and length:
+    if iterable and (length>0):
         power = area(iterable,length)
         temp_list = [[None]*length for i in range(power)]
         for i in range(-1,length*-1-1,-1): # negative i

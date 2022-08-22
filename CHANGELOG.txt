@@ -1,15 +1,18 @@
 Change Log
 ==========
 
+1.1.1 (22/8/2022)
+-----------------
+- combinations --> permutations with repetition (word replacement due to typo) 
+(I might add combinations in the future + repetition True-False) (The package name will remain the same)
+
+- Version 1.0.2 in the changelog was 2 times (typo)
+
 1.1.0 (19/8/2022)
 -----------------
 - New return form
 - The all function has been renamed to pc
 - Better file organization and function syntax
-
-1.0.2 (10/7/2022)
------------------
-- Added github
 
 1.0.2 (10/7/2022)
 -----------------
