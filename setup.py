@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='pcomp',
-  version='1.2',
+  version='1.2.1',
   description='Possible permutations with repetition - Python Library',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   long_description_content_type='text/markdown',
