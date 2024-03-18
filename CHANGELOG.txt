@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+1.3 (18/3/2024)
+-----------------
+- Improved code readability and readme
+
 1.2.1 (28/11/2022)
 -----------------
 - typo
